@@ -3,6 +3,9 @@
 ## Description
 The Tip Calculator project is a web application that enables users to calculate the total bill per person when splitting the bill with a group. This application is built using HTML, CSS, and JavaScript. It provides a user-friendly interface and offers the following functionalities:
 
+![Screenshot (151)](https://github.com/rjrahul08/Tip-Calculator/assets/61372250/cf9206be-dd10-49e3-99c7-0fb42f19d179)
+
+
 ### Functions:
 1. `calculateBill()`: This function calculates the total bill per person based on the bill amount and tip percentage provided by the user. It updates the result on the DOM, displaying the amount owed per person.
 2. `increasePeople()`: Use this function to increase the number of people the bill is split between. It updates the DOM with the new number of people and recalculates the bill accordingly.
